@@ -38,7 +38,7 @@ CUSTOM_CAPTION = environ.get('CUSTOM_CAPTION')
 class Config(object):
 	API_ID = int(os.environ.get("API_ID", 35329753))
 	API_HASH = os.environ.get("API_HASH", "ef6877467f57443ddd5a5c26377e0691")
-	BOT_TOKEN = os.environ.get("BOT_TOKEN","")
+	BOT_TOKEN = os.environ.get("BOT_TOKEN","8661482553:AAH78NnDbCEBI-OFyGovQgyam0YSgZmX6eg")
 	BOT_USERNAME = os.environ.get("BOT_USERNAME" , "KNFilesStorebot")
 	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1003703513064"))
 	BOT_OWNER = int(os.environ.get("BOT_OWNER", "1296482719"))
