@@ -3,7 +3,7 @@ TgCrypto
 motor==2.5.1
 aiofiles
 dnspython
-psutil
+psutil==5.9.0
 Flask==2.2.2
 gunicorn==20.1.0
 aiohttp
